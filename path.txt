@@ -1,0 +1,17 @@
+123321, pol, bsc
+423123, pol, core
+451235, pol, celo
+612342, pol, combo
+512352, pol, opbnb
+312352, pol, mantle
+523412, core, bsc
+321234, core, pol
+531231, core, combo
+532133, core, pol
+531223, core, opbnb
+321342, celo, bsc
+321421, celo, pol
+321333, celo, combo
+532132, celo, opbnb
+512332, celo, pol
+123322, celo, pol
